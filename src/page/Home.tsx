@@ -88,7 +88,7 @@ function Home() {
         <div className="absolute inset-0 flex items-end justify-center px-4 md:px-6 ">
           <div className="max-w-6xl w-full mx-auto flex flex-wrap items-center justify-between p-4 bg-neutral-600/15 backdrop-blur-sm rounded-full border border-[#2e2d2d85]">
             <div className="flex space-x-4 gap-6 hide-scrollbar overflow-x-auto scroll-smooth snap-x snap-mandatory w-full">
-              {Array(14).fill().map((_,index) => (
+              {Array(14).fill(null).map((_,index) => (
                   <div
                     key={index}
                     className="w-14 h-14 flex-shrink-0 snap-center"
