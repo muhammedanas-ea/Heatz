@@ -7,7 +7,6 @@ import bannerVedio from "../../public/3761461-uhd_3840_2160_25fps.mp4"
 import headphoneImge from "../../public/png-clipart-headphones-headphones__1_-removebg-preview.png"
 import Banner1 from "../../public/Screenshot (134).jpg"
 import Banner2 from "../../public/Screenshot (138).png"
-import Banner2 from "../../public/Screenshot (138).png"
 import Banner3 from "../../public/Screenshot (139).jpg"
 import Banner4 from "../../public/Screenshot (140).png"
 
