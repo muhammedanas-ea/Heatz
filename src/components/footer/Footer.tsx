@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="w-full  px-4 md:px-6 ">
       <div className="pt-20 pb-14 grid  grid-cols-1 lg:grid-cols-6 gap-7 border-b border-b-white max-w-6xl mx-auto">
-        <div className="md:col-span-3">
+        <div className="lg:col-span-3">
           <h1 className="font-bold text-3xl md:text-4xl sub-font text-[#00ff9d]">
             HEATZ
           </h1>
