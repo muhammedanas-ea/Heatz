@@ -11,8 +11,8 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="fixed w-full z-50 top-5 px-4 md:px-6">
-      <div className="max-w-6xl mx-auto flex  px-7 py-5 items-center justify-between bg-neutral-600/15 backdrop-blur-sm rounded-full border border-[#2e2d2d85]">
+    <nav className="fixed w-full z-50 top-5 md:px-6">
+      <div className="max-w-6xl mx-auto flex  px-7 py-5 items-center justify-between bg-neutral-600/15 backdrop-blur-sm md:rounded-full border border-[#2e2d2d85]">
         <div className="flex items-center space-x-2">
           <Menu className="md:hidden h-5 w-5 text-[#00ff9d] cursor-pointer" />
           <Link to="/" className="flex items-center">
