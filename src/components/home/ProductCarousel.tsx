@@ -4,7 +4,7 @@ import { ChevronRight } from "lucide-react";
 
 const products = [
   {
-    id: 2,
+    id: 1,
     image:
       "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&q=80",
     badge: "Best Buy",
@@ -20,7 +20,7 @@ const products = [
     price: 2599,
   },
   {
-    id: 2,
+    id: 3,
     image:
       "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&q=80",
     badge: "Best Buy",
@@ -28,7 +28,7 @@ const products = [
     price: 2599,
   },
   {
-    id: 2,
+    id: 4,
     image:
       "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&q=80",
     badge: "Best Buy",
@@ -36,7 +36,7 @@ const products = [
     price: 2599,
   },
   {
-    id: 2,
+    id: 5,
     image:
       "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&q=80",
     badge: "Best Buy",

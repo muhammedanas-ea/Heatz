@@ -130,8 +130,8 @@ const Home = () => {
         />
       </div>
       <div className="flex gap-3 overflow-x-auto pt-10 hide-scrollbar">
-        {products.map(() => (
-          <div className="bg-gray-100 flex flex-col relative flex-shrink-0 w-[14rem]">
+        {products.map((_,index) => (
+          <div key={index} className="bg-gray-100 flex flex-col relative flex-shrink-0 w-[14rem]">
             <div className="flex justify-center  h-80">
               <video
                 src={bannerVedio}
